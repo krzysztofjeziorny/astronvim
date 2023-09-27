@@ -1,6 +1,6 @@
 # My AstroNvim user configuration
 
-Cloned from [AstroNvim's example](https://github.com/AstroNvim/user_example)
+Cloned from [AstroNvim's example](https://github.com/AstroNvim/user_example).
 
 ## 🛠️ Installation
 
@@ -39,6 +39,6 @@ nvim
 
 [Neovide](https://github.com/neovide/neovide)
 
-### AstroVim Documentation
+### AstroNvim Documentation
 
 [Documentation](https://astronvim.com/)
