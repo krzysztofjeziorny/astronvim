@@ -9,4 +9,7 @@ return {
   --     require("lsp_signature").setup()
   --   end,
   -- },
+  "editorconfig/editorconfig-vim",
+  "itspriddle/vim-shellcheck",
+  "jamessan/vim-gnupg",
 }
