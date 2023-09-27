@@ -39,6 +39,8 @@ nvim
 
 [Neovide](https://github.com/neovide/neovide)
 
+[VimR](https://github.com/qvacua/vimr)
+
 ### AstroNvim Documentation
 
 [Documentation](https://astronvim.com/)
